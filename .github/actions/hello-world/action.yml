@@ -1,6 +1,6 @@
 name: "my hello action"
 
-description: "say hello with Github Actions"
+description: "say hello with actions"
 
 inputs:
   first-greeting:
